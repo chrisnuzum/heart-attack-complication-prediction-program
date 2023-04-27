@@ -11,7 +11,7 @@ from sklearn.metrics import multilabel_confusion_matrix
 from sklearn.tree import DecisionTreeClassifier
 
 st.set_page_config(
-    page_title="Heart Attack Complications Predictor",
+    page_title="Heart Attack Complication Prediction Program",
     page_icon=":heart:",
     layout="wide",
     menu_items={
